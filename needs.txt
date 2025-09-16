@@ -1,0 +1,10 @@
+!pip install -f --quiet --no-index --find-links='/kaggle/input/autogluon-package' 'autogluon.tabular-1.3.1-py3-none-any.whl'
+!pip install -f --quiet --no-index --find-links='/kaggle/input/scikit-package' 'scikit_learn-1.5.2-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl' 
+!pip install /kaggle/input/rdkit-2025-3-3-cp311/rdkit-2025.3.3-cp311-cp311-manylinux_2_28_x86_64.whl
+!pip install mordred --no-index --find-links=file:///kaggle/input/mordred-1-2-0-py3-none-any/
+BASE_PATH = '/kaggle/input/neurips-open-polymer-prediction-2025/'
+output_dfs = []
+!pip install /kaggle/input/betterback/rdkit-2025-3-3-cp311/rdkit-2025-3-3-cp311/rdkit-2025.3.3-cp311-cp311-manylinux_2_28_x86_64.whl -q
+!pip install mordred --no-index --find-links=file:///kaggle/input/betterback/mordred-1-2-0-py3-none-any/mordred-1-2-0-py3-none-any -q
+!pip install /kaggle/input/rdkit-2025-3-3-cp311/rdkit-2025.3.3-cp311-cp311-manylinux_2_28_x86_64.whl
+!pip install /kaggle/input/torch-geometric-2-6-1/torch_geometric-2.6.1-py3-none-any.whl
