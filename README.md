@@ -28,8 +28,8 @@ This repository contains my solution to the [NeurIPS 2025 Open Polymer Predictio
 - even more algorithms
 
 ### Stacking Ensembles
-- Stacked predictions from XGBoost, LightGBM, CatBoost, Random Forest
-- Meta-learners: `ElasticNet`, `CatBoost`, `LightGBM`, `XGBoost`
+- Stacked predictions from XGBoost, LightGBM, CatBoost, Random Forest,... 
+- Meta-learners: `ElasticNet`, `CatBoost`, `LightGBM`, `XGBoost`,... 
 
 ### Feature Engineering
 - **Molecular descriptors:** RDKit, Mordred
