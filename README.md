@@ -23,6 +23,9 @@ This repository contains my solution to the [NeurIPS 2025 Open Polymer Predictio
 - Neural Networks (custom `FeedforwardNet` in PyTorch)
 - TabNet (`TabNetRegressor`)
 - HistGradientBoosting (`HistGradientBoostingRegressor`)
+- GNNs
+- RNNs
+- even more algorithms
 
 ### Stacking Ensembles
 - Stacked predictions from XGBoost, LightGBM, CatBoost, Random Forest
